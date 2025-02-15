@@ -3,7 +3,7 @@
 public class Main {
     // JAR - Java Archive
     public static void main(String[] args) {
-        System.out.println("Invat limbajul bine java!");
+        System.out.println("Invat limbajul java bine de tot!");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
